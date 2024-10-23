@@ -3,19 +3,20 @@
     height: 20%;
     padding: 10%;
     margin: 10%;
+    border-radius: 10px;
 }
 
 body{
     font-family: Georgia;
 }
 
-#1{
+#one{
     background-color: #e68f8f;
 }
-#2{
+#two{
     background-color: #7cbc65;
 }
-#3{
+#three{
     background-color: #5866ac;
 }
 
