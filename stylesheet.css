@@ -1,0 +1,29 @@
+.box{
+    width: 20%;
+    height: 20%;
+    padding: 10%;
+    margin: 10%;
+}
+
+body{
+    font-family: Georgia;
+}
+
+#1{
+    background-color: #e68f8f;
+}
+#2{
+    background-color: #7cbc65;
+}
+#3{
+    background-color: #5866ac;
+}
+
+#basketball{
+    width: 80%;
+    height: 80%;
+}
+
+a:hover{
+    color:#FF0000;
+}
